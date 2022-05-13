@@ -2,10 +2,10 @@
 
 I'm a Technologist, Agile Leader and Problem Solver available on the Internet but mostly connecting from Texas.
 
-I specialize in building effective teams that solve complex problems.
+I have nearly 20 years of experience in the world of Technology & Product Management ranging from SMB to Fortune 50 as a software engineer, manager and director. I am a technology generalist that uses my wide range of experience to help people and organizations solve complex problems, through continuously improve, effective collaboration and the empirical process and will get passionately involved in any discussion about Agile, Scrum or BBQ.
 
-- 🏢 I'm currently engaged with Aon/CoverWallet as a Product Owner.
-- 📜 Previously I have worked with The Home Depot, Apple, Yahoo!, TaskRabbit and others.
+- 🏢 I'm currently engaged with Aon/CoverWallet as a API Product Owner and Kubeshop as a Senior Product Manager for Kusk.
+- 📜 Previously I have worked with The Home Depot, Apple, Yahoo!, CVS Health, TaskRabbit and others.
 - 🌱 I'm continuiously learning by co-hosting the [Liberators Network - United States User Group](https://github.com/theliberators/usergroups) which focuses on learning and growing together in the area of Scrum and Liberating Structures.
 - 👀 I’m available for consulting, training or speaking through [One37 Consulting](https://one37.dev).
 - 📫 You can reach me via [twitter](https://twitter.com/crjones) or on my [website](https://crjones.us).
